@@ -59,7 +59,7 @@ Customer shopping behavior dataset containing:
 - Data Storytelling
 
 ## Dashboard Preview
-(Add Power BI dashboard screenshots here)
+![Dashboard](DashBoard.png)
 
 ## Project Outcome
 This project demonstrates the complete data analytics lifecycle, from raw data preparation to business insight generation and dashboard development.
